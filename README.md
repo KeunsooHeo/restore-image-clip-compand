@@ -1,0 +1,1 @@
+# Implementation of *Keun-Soo Heo, Yunju Kim, Changwoo Lee, “Efficient Deep Neural Network for Restoring Image Intensity,” IEIE Transactions on Smart Processing & Computing, Vol.8, No.2, pp. 121-125, 2019.*
